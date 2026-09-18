@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T13:58:51Z",
+  "updatedAt": "2026-09-18T17:33:10Z",
   "games": {
     "kart-wars": {
       "universeId": 9203438594,
-      "playing": 69,
-      "visits": 10529638
+      "playing": 122,
+      "visits": 10532022
     },
     "trackday": {
       "universeId": 1655411599,
-      "playing": 83,
-      "visits": 45317807
+      "playing": 79,
+      "visits": 45319881
     }
   }
 }
